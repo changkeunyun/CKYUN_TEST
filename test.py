@@ -1,5 +1,8 @@
-print "test"
+# -*- coding: utf-8 -*-
 
-print "line test"
+import networkx as nx
 
-print "feature"
+'''
+Movielens 데이터를 이용하여
+적절한 지표를 찾아내보기
+'''
