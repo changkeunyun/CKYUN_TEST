@@ -14,3 +14,7 @@ Movielens 데이터를 이용하여
 '''
 테스트 for 소스트리
 '''
+
+'''
+terminal test
+'''
