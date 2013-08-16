@@ -26,3 +26,5 @@ terminal test
 '''
 소스트리 테스트
 '''
+
+G1 = nx.Graph()
