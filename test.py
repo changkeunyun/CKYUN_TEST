@@ -28,3 +28,4 @@ terminal test
 '''
 
 G1 = nx.Graph()
+
